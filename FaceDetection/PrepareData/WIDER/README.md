@@ -1,0 +1,1 @@
+generateFormatedAnnoInfo.py 用于生成标注文件
